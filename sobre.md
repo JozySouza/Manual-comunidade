@@ -13,3 +13,9 @@ de tecnologia, da engenharia à liderança.
 
 Qualquer pessoa que se identifique com a nossa missão e queira contribuir com um ambiente
 mais diverso na tecnologia.
+
+## Como participar
+
+Você pode participar acompanhando as atividades da comunidade, trocando experiências e compartilhando oportunidades de aprendizado.
+
+Toda contribuição é bem-vinda: fazer perguntas, sugerir melhorias para este manual ou ajudar outras pessoas em sua jornada na tecnologia.
