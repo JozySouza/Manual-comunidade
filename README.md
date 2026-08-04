@@ -16,6 +16,9 @@ escrever nenhuma linha de código de programação.
 1. Baixe esta pasta e abra no VS Code.
 2. Siga o guia da aula prática correspondente.
 3. Cada seção do manual vira uma oportunidade de praticar commits, branches e Pull Requests.
+4. Atualizando o arquivo no desenvolvimento do 1º projeto da WoMakersCode.
+
+
 
 > 💡 Dica: um bom README é a porta de entrada de qualquer projeto. Ele explica **o que é**
 > o projeto e **como usá-lo**.
