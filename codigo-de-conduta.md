@@ -1,6 +1,6 @@
 # Código de conduta
 
-Para manter a comunidade acolhedora, todas as pessoas participantes concordam em:
+Para manter a comunidade acolhedora e um ambiente de aprendizado saudável, respeitoso e seguro, todas as pessoas participantes concordam em:
 
 1. Tratar as demais com respeito e empatia.
 2. Acolher pessoas iniciantes e responder dúvidas com paciência.
