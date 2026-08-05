@@ -8,7 +8,7 @@ de tecnologia, da engenharia à liderança.
 - Aprendizado colaborativo
 - Respeito e acolhimento
 - Compartilhar conhecimento sem medo de errar
-- colaboração em tempo real
+- Colaboração em tempo real
 
 ## Quem pode participar
 
