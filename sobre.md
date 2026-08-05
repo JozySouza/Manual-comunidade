@@ -14,3 +14,5 @@ de tecnologia, da engenharia à liderança.
 
 Qualquer pessoa que se identifique com a nossa missão e queira contribuir com um ambiente
 mais diverso na tecnologia.
+
+💌 Incentivamos conexões que transformam carreiras e fortalecem a comunidade.
