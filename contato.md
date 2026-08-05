@@ -10,4 +10,10 @@ Escolha o canal que preferir para falar com a comunidade:
 - **LinkedIn:** linkedin.com/company/github-for-women
 - **Instagram:** @githubforwomen
 
+## Quando usar cada canal?
+
+- **E-mail:** para dúvidas, sugestões ou assuntos que precisam de mais detalhes.
+- **LinkedIn:** para acompanhar novidades e informações profissionais da comunidade.
+- **Instagram:** para acompanhar conteúdos, eventos e atualizações.
+
 > ⚠️ Estes dados são fictícios e servem apenas para a prática do curso.
