@@ -1,10 +1,6 @@
 # Como entrar em contato
 
-Ficou com alguma dúvida ou quer participar? Fale com a gente!
-
-## Canais de contato
-
-Escolha o canal que preferir para falar com a comunidade:
+Ficou com alguma dúvida ou quer participar? Fale com a gente no canal de sua preferência:
 
 - **E-mail:** contato@githubforwomen.exemplo
 - **LinkedIn:** linkedin.com/company/github-for-women
